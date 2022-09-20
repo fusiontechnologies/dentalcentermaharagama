@@ -619,6 +619,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
 }
 
+span[data-toggle="counter-up"]::after {
+  content: "+";
+}
+
+
+
+
 /* Gallery Section
 --------------------------------*/
 
